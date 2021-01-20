@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"main","Source":"../modules","Dir":"../modules"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"database","Source":"../modules/database","Dir":"../modules/database"},{"Key":"user_grants","Source":"../modules/user_grants","Dir":"../modules/user_grants"}]}
