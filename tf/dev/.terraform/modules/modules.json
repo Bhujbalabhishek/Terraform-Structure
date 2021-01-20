@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"database","Source":"../modules/dev_db","Dir":"../modules/dev_db"},{"Key":"user_grants","Source":"../modules/user_grants_dev","Dir":"../modules/user_grants_dev"}]}
