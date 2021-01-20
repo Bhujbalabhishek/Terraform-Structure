@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"user_grants","Source":"../modules/user_grants_stg","Dir":"../modules/user_grants_stg"},{"Key":"","Source":"","Dir":"."},{"Key":"database","Source":"../modules/stg_db","Dir":"../modules/stg_db"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"main","Source":"../modules","Dir":"../modules"}]}

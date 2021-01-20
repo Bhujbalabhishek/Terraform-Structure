@@ -1,7 +1,7 @@
-module "database" {
-  source = "../modules/dev_db"
-}
-
-module "user_grants" {
-  source = "../modules/user_grants_dev"
+module "main" {
+  source           = "../modules"
+  db               = "dev_db"
+  user             = "dev_user"
+  user_grants      = "[ALL PRIVILEGES]"
+  environment_name = "dev"
 }

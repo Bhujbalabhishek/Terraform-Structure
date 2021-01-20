@@ -13,6 +13,6 @@ provider "mysql" {
     password = "cybage@123"
 }
 
-resource "mysql_database" "app_stg" {
-  name = "stg_db"
+resource "mysql_database" "app" {
+  name = var.db
 }
