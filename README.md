@@ -15,7 +15,7 @@ Run terraform plan to check whether the execution plan for a configuration match
 
 Apply changes to hundreds of cloud providers with terraform apply to reach the desired state of the configuration.
 
-<b>Problem statment:-</b>
+#<b>Problem statment:-</b>
 As create a db and user with granted permissions using terraform for dev, prod, stg without using the folders such as dev, prod and stg.
 for this there are many ways to achieve this using Terraform.
 In this repo I have used "Terraform workspace" to create different db and user with granted permissions for each environment.
